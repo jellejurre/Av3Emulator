@@ -1,5 +1,5 @@
 # Avatar 3.0 Emulator
-#THIS FORK IS NOW DEPRECATED. PLEASE USE [LYUMA'S VERSION](https://github.com/lyuma/Av3Emulator/)
+# THIS FORK IS NOW DEPRECATED. PLEASE USE [LYUMA'S VERSION](https://github.com/lyuma/Av3Emulator/)
 
 ## **[Download the latest version at: https://github.com/lyuma/Av3Emulator/releases](https://github.com/lyuma/Av3Emulator/releases)**
 
